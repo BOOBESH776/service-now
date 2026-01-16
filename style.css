@@ -1,0 +1,74 @@
+.adoption {
+    color: #ffffff;
+}
+
+.adoption-words {
+    color: #a1b7c4;
+}
+
+.btn-group .modify-btn {
+    background-color: #ffffff;
+    color: #042c44;
+}
+
+.btn-group .unmodify-btn {
+    background-color: #345769;
+    color: #ffffff;
+}
+
+.samples {
+    color: #ffffff;
+}
+
+
+.view .card-text {
+    color: #fff;
+}
+
+/* start */
+.buton-group {
+    display: flex;
+    gap: 7px;
+    border: 0;
+}
+
+.buton-group button {
+    gap: 7px;
+    border: 0;
+    padding: 7px;
+    border-radius: 100px;
+}
+
+.container .bottom-btn button {
+    gap: 7px;
+    border: 0;
+    padding: 8px;
+    border-radius: 100px;
+}
+
+.card-container .card {
+    background-color: aqua;
+    width: 260px;
+    height: 280px;
+    border-radius: 15px;
+}
+
+.card-container img {
+    width: 260px;
+    height: 130px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card-container .card-body {
+
+    white-space: nowrap;
+
+    overflow: visible;
+
+    text-overflow: ellipsis;
+
+    width: 200px;
+
+
+}
